@@ -1,5 +1,6 @@
 # Head
 
+- Added: `media-feature-name-case` rule.
 - Fixed: bug causing rules in extended configs to be merged with, rather than replaced by, the extending config.
 
 # 7.0.2
